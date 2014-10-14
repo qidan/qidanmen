@@ -1,0 +1,6 @@
+{>"layouts/master" /}
+
+{<body}
+    <h1>my name is {name}</h1>
+    <p>this is workshop project</p>
+{/body}
