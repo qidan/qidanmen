@@ -1,7 +1,7 @@
 {>"layouts/master" /}
 
 {<body}
-    <h1>my name1 is {nam}</h1>
+    <h1>my name188 is {nam}</h1>
     <p>this is workshop project</p>
 {/body}
 
